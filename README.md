@@ -14,7 +14,7 @@ Code for "One Step at A Time: A Two-Stage Approach to Motion Artifact Reduction 
 See [INSTALL.md](INSTALL.md) for the installation of dependencies required to run OSAT.
 
 ## Results
-Experiments are performed for different image processing tasks including, image deraining, single-image motion deblurring, defocus deblurring (both on single image and dual pixel data), and image denoising (both on Gaussian and real data). 
+Experiments are performed for artifact removal. 
 
 <details>
 <summary><strong>Image Deraining</strong> (click to expand) </summary>
