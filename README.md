@@ -33,7 +33,16 @@ python setup.py develop --no_cuda_ext
 Experiments are performed for artifact removal. 
 
 <details>
-<summary><strong>Image Deraining</strong> (click to expand) </summary>
+<summary><strong>OCTA Motion Artifacts Removal </strong>  </summary>
 
-<img src = "https://i.imgur.com/mMoqYJi.png"> 
+<img src = "./sources/result0.PNG"> 
 </details>
+
+<details>
+<summary><strong>OCTA Motion Artifacts Removal  </strong>  </summary>
+
+<img src = "./sources/result1.PNG"> 
+</details>
+
+
+
