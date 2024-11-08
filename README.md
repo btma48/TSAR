@@ -11,7 +11,24 @@ Code for "A Two-Stage Approach to Motion Artifact Reduction in OCTA Images"
 
 ## Installation
 
-See [INSTALL.md](INSTALL.md) for the installation of dependencies required to run OSAT.
+1. Make conda environment
+```
+conda create -n octa python=3.7
+conda activate octa
+```
+
+2. Install dependencies
+```
+conda install pytorch=1.8 torchvision cudatoolkit=10.2 -c pytorch
+pip install matplotlib scikit-learn scikit-image opencv-python yacs joblib natsort h5py tqdm
+pip install einops gdown addict future lmdb numpy pyyaml requests scipy tb-nightly yapf lpips
+```
+
+3. Install basicsr
+# our method is based on basicsr
+```
+python setup.py develop --no_cuda_ext
+```
 
 ## Results
 Experiments are performed for artifact removal. 
