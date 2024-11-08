@@ -7,7 +7,7 @@ Code for "A Two-Stage Approach to Motion Artifact Reduction in OCTA Images"
 
 ## Network Architecture
 
-<img src = "https://i.imgur.com/ulLoEig.png"> 
+<img src = "./sources/framework.png"> 
 
 ## Installation
 
