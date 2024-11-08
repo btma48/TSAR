@@ -6,8 +6,14 @@ Code for "A Two-Stage Approach to Motion Artifact Reduction in OCTA Images"
 <hr />
 
 ## Network Architecture
-
+The overall framework of  motion artifact removal
 <img src = "./sources/framework.PNG"> 
+
+The details architecture of different self-attention modules
+<img src = "./sources/self-attention.PNG"> 
+
+The motivation for the proposed self-attention modules
+<img src = "./sources/SA.PNG"> 
 
 ## Installation
 
@@ -37,11 +43,9 @@ OCTA Motion Artifacts Removal
 <img src = "./sources/result0.PNG"> 
 
 
-<details>
-<summary><strong>OCTA Motion Artifacts Removal  </strong>  </summary>
-
+OCTA Motion Artifacts Removal on clinical data
 <img src = "./sources/result1.PNG"> 
-</details>
+
 
 
 
