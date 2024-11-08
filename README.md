@@ -57,6 +57,8 @@ OCTA Motion Artifacts Removal
 OCTA Motion Artifacts Removal on clinical data
 <img src = "./sources/result1.PNG"> 
 
+For the inpainting stage, an example is:
 
+<img src = "./sources/ddpm.PNG"> 
 
 
