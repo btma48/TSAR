@@ -61,4 +61,19 @@ For the inpainting stage, an example is:
 
 <img src = "./sources/ddpm.PNG"> 
 
+## Citation
+If you use Restormer, please consider citing:
+
+    @inproceedings{bma2024,
+        title={TSAR: A Two-Stage Approach to Motion Artifact Reduction in OCTA Images}, 
+        author={Benteng Ma and Xiaomeng Li and Xu Lin and Xiaoyu Bai 
+                and Dongping Shao and Chubin ou and Lin An and Jia Qin and Kwang-Ting Cheng},
+        year={2024}
+    }
+
+## Contact
+Should you have any questions, please contact mabenteng2013@gmail.com
+
+**Acknowledgment:** This code is based on the [BasicSR](https://github.com/xinntao/BasicSR) toolbox and [HINet](https://github.com/megvii-model/HINet). 
+
 
