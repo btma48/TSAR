@@ -32,11 +32,10 @@ python setup.py develop --no_cuda_ext
 ## Results
 Experiments are performed for artifact removal. 
 
-<details>
-<summary><strong>OCTA Motion Artifacts Removal </strong>  </summary>
+OCTA Motion Artifacts Removal 
 
 <img src = "./sources/result0.PNG"> 
-</details>
+
 
 <details>
 <summary><strong>OCTA Motion Artifacts Removal  </strong>  </summary>
