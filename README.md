@@ -24,8 +24,7 @@ pip install matplotlib scikit-learn scikit-image opencv-python yacs joblib natso
 pip install einops gdown addict future lmdb numpy pyyaml requests scipy tb-nightly yapf lpips
 ```
 
-3. Install basicsr
-# our method is based on basicsr
+3. Install basicsr (this project is based on basicsr)
 ```
 python setup.py develop --no_cuda_ext
 ```
