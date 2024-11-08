@@ -35,6 +35,17 @@ pip install einops gdown addict future lmdb numpy pyyaml requests scipy tb-night
 python setup.py develop --no_cuda_ext
 ```
 
+## Run
+Config the dataset and model in ./Operations/OCTA.yml, then 
+```
+bash train.sh
+```
+Then run the inpainting code in ./rcdm
+
+```
+python run.py
+```
+
 ## Results
 Experiments are performed for artifact removal. 
 
